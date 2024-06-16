@@ -10,7 +10,7 @@ Our projects:
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/RedondoDev/EclipseBar)">
+      <a href="https://github.com/Timasostima-RedondoDEV/EclipseBar">
         <b>EclipseBar</b>
       </a>
     </td>
