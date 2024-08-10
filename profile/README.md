@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 Our projects:
 
@@ -16,7 +16,7 @@ Our projects:
     </td>
   </tr>
   <tr>
-    <td width=46%><img src="https://github.com/Timasostima/CRUD_java/assets/72166965/9b4e25a1-14b6-426b-aa78-4050101012d9)"  alt="1" style="width: 100%;aspect-ratio:16/9" ></td>
+    <td width=46%><img src="https://github.com/Timasostima/CRUD_java/assets/72166965/9b4e25a1-14b6-426b-aa78-4050101012d9"  alt="1" style="width: 100%;aspect-ratio:16/9" ></td>
     <td><img src="https://github.com/Timasostima-RedondoDEV/.github/assets/72166965/4ab3afe8-e1aa-4b72-ae56-ecc9f487d2a0" alt="2" style="width: 100%;aspect-ratio:16/9""></td>
    </tr> 
   <tr>
