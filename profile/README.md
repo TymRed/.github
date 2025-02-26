@@ -27,7 +27,6 @@ Our projects:
     <td> <img src="https://github.com/user-attachments/assets/b69946ef-2a55-42a7-8596-8dd2042546ef"  alt="1" style="width: 100%;aspect-ratio:16/9" ></td>
     <td> <img src="https://github.com/user-attachments/assets/421e438f-37a1-44e6-a45e-86b3ec9563ed" alt="2" style="width: 100%;aspect-ratio:16/9""></td>
    </tr> 
-![image]()
 
 
   <tr>
